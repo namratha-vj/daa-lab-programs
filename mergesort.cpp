@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std; //this is useless
  
 
 void Merge(int *a, int low, int high, int mid)
